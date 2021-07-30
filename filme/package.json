@@ -1,0 +1,14 @@
+{
+  "name": "filme",
+  "version": "1.0.0",
+  "description": "filme osca",
+  "main": "filme.html",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "filme"
+  ],
+  "author": "Aieychan karoline",
+  "license": "ISC"
+}

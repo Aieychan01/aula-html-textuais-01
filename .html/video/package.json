@@ -1,0 +1,14 @@
+{
+  "name": "video",
+  "version": "1.0.0",
+  "description": "video",
+  "main": "video.html",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "video"
+  ],
+  "author": "Aieychan Karoline",
+  "license": "ISC"
+}
